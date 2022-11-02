@@ -1,3 +1,1 @@
-# golang-test
-# golang
 # golang
